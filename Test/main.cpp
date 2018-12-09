@@ -11,9 +11,11 @@ int main()
     cin >> wiek; //uzytkownik wpisuje wiek
     cout << "Obliczymy pole kwadrata." << endl;
     cout << "Podaj dlugosc pierwszego boku";
-    cin >> a;
+    cin >> a; //wpisujemy dlugosc boku
     cout << "Podaj dlugosc drugiego boku";
     cin >> b;
+
+
 
     return 0;
 }
