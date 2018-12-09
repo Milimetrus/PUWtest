@@ -14,11 +14,11 @@ int main()
     cin >> a; //wpisujemy dlugosc boku
     cout << "Podaj dlugosc drugiego boku";
     cin >> b;
-
+    cout << endl;
     wynik = a * b;
 
 
-
+    cout << "Pole kwadrata wynosi: " wynik;
 
 
     return 0;
