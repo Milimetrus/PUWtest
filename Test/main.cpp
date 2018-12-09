@@ -14,7 +14,7 @@ int main()
     cout << "Podaj dlugosc drugiego boku, rowniez w centymetrach: ";
     cin >> b;
     cout << endl;
-    wynik = a * b;
+    wynik = a * b; //wynik
 
 
     cout << "Pole kwadrata wynosi: " <<  wynik << "cm" << endl; //dziala
