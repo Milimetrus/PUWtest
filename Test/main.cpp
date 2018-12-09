@@ -17,7 +17,7 @@ int main()
     wynik = a * b;
 
 
-    cout << "Pole kwadrata wynosi: " <<  wynik << "cm" << endl;
+    cout << "Pole kwadrata wynosi: " <<  wynik << "cm" << endl; //dziala
 
 
     return 0;
