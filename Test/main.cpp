@@ -8,6 +8,6 @@ int main()
     int wiek;
     cout << "Hello world!" << endl;
     cout << "Podaj swoj wiek" << endl;
-    cin >> wiek;
+    cin >> wiek; //uzytkownik wpisuje wiek
     return 0;
 }
