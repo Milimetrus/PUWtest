@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    int wiek, a, b, wynik;
+    int a, b, wynik;
     cout << "Hello world!" << endl; //witamy sie ze swiatem
     cout << "Obliczymy pole kwadrata." << endl;
     cout << "Podaj dlugosc pierwszego boku w centymetrach: ";
